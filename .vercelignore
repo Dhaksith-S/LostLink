@@ -1,0 +1,7 @@
+node_modules
+.next
+.git
+test-results
+tests
+playwright.config.ts
+*.tsbuildinfo
